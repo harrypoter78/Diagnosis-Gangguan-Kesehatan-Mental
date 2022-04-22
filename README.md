@@ -9,7 +9,7 @@ In the project directory, you can run:
 To use all data from sql file
 
 ### `php spark serve`
-To install all used packages
+To launch the project
 
 
 # CodeIgniter 4 Framework
